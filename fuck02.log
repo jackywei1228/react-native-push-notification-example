@@ -1,0 +1,25 @@
+
+> example@0.0.1 start /data/sourceCode/react-native-push-notification/example
+> node node_modules/react-native/local-cli/cli.js start
+
+Scanning folders for symlinks in /data/sourceCode/react-native-push-notification/example/node_modules (5ms)
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│  Running Metro Bundler on port 8081.                                         │
+│                                                                              │
+│  Keep Metro running while developing on any JS projects. Feel free to        │
+│  close this tab and run your own Metro instance if you prefer.               │
+│                                                                              │
+│  https://github.com/facebook/react-native                                    │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+Looking for JS files in
+   /data/sourceCode/react-native-push-notification/example 
+
+
+Metro Bundler ready.
+
+Loading dependency graph, done.
+ BUNDLE  [android, dev] ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100.0% (512/512), done.
+

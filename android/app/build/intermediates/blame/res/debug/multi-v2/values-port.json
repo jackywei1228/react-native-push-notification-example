@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/data/sourceCode/react-native-push-notification/example/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/android/.gradle/caches/transforms-2/files-2.1/b7616759a173691cc5e3fd83e989edfc/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
