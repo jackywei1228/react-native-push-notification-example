@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "react": "16.4.1",
-    "react-native": "0.56.0",
+    "react-native": "0.70.2",
     "react-native-background-timer": "^2.2.0",
     "react-native-push-notification": "git+https://git@github.com/zo0r/react-native-push-notification.git"
   },
